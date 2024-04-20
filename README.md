@@ -25,6 +25,7 @@ Antes de executar o script, certifique-se de configurar corretamente as variáve
 ## Execução da automação
 Você insere arquivos na pasta origem:
 ![Captura de tela 2024-04-19 225818](https://github.com/Krlos-G/atividade3-ps1/assets/136604221/fa2ae6fc-109c-444b-bcbe-18b6fea5ee5a)
+
 E então executa a automação e ela separara os arquivos ordenadamente na pasta destino:
 ![imagem_2024-04-19_230031246](https://github.com/Krlos-G/atividade3-ps1/assets/136604221/23dd85d8-6926-4abd-8d6b-dd7d343aae4f)
 
